@@ -10,6 +10,8 @@
 
 - strogonnof
 
+- pavê
+
 - dicas infalíveis
 
   ###### chef gustavo pereira
